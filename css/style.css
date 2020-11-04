@@ -1,0 +1,19 @@
+article {
+    background-color: #faebd6;
+    padding: 5px;
+}
+
+h1 {
+    color: #ff0000;
+    margin-bottom: 40px;
+}
+
+p {
+    color: #00008f;
+    margin-bottom: 50px;
+}
+
+h1 + p {
+    color: #a42423;
+    margin-bottom: 40px;
+}
